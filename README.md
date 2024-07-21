@@ -4,7 +4,7 @@ It is often used to identify patterns or rules that describe the relationship be
 
 Hotels typically conduct such analysis on services that they later include in package deals. For example, booking a deluxe room and getting a discount on a spa service. This way, sales of a specific room category and spa services are stimulated.
 
-We will consider a more complex example that is extremely rare in the hospitality industry. Suppose the task is to consider guests' preferences and outlets.So we will try to find what guests prefer to order together and when and where.
+We will consider a more complex example that is extremely rare in the hospitality industry. Suppose the task is to consider guests' preferences of food, alcohol, outlets and serving period. We will try to find what guests prefer to order together and when and where.
 
 So let's first define the terms:
 
