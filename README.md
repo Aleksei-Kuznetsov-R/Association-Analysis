@@ -41,3 +41,5 @@ Has 3 different approaches for calculations:
 1. Simple and straightforward analysis of 2 way lift
 2. Simple loop for X-way-lift
 3. Custom analysis where you can choose what to analysis in each side (rhs or lhs)
+
+As with any analysis, it is crucial to consider the real-world context when interpreting results. In this example, we are examining a real-world scenario and attempting to determine how best to analyze it. While our conclusions will be accurate based on the data analyzed, they do not account for other external parameters.
